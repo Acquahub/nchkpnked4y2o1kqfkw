@@ -37,9 +37,11 @@ align-self: stretch;
     flex-direction: column;
 justify-content: flex-start;
 align-items: flex-start;
-
-background-color: transparent;
-height: 70px;min-height: 70px;
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+background-image: url('/assets/8.2.thebeaniebubble.jpeg');
+height: 70vw;min-height: 70vw;
 align-self: stretch;
     
 }
