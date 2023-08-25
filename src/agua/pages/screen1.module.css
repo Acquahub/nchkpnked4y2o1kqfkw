@@ -17,3 +17,17 @@ height: fit-content;
 width: fit-content;
     
 }
+.layer-1-182d4faf33414e8799814e40567b7dd8{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+background-image: url('/assets/8.1hijack.jpeg');
+flex-grow: 1;height: unset;
+align-self: stretch;
+    
+}
