@@ -27,7 +27,19 @@ background-repeat: no-repeat;
 background-size:cover;
 background-position: center;
 background-image: url('/assets/8.1hijack.jpeg');
-flex-grow: 1;height: unset;
+height: 70vh;min-height: 70vh;
+align-self: stretch;
+    
+}
+.layer-2-2bc53f0cd63141dfb123d0edeab72c72{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: 70px;min-height: 70px;
 align-self: stretch;
     
 }
